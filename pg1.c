@@ -10,3 +10,4 @@ this is my 3lines
 =======
 this is my 3lines
 >>>>>>> feature_branch
+editing in github 
